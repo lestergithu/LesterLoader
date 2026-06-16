@@ -1,0 +1,17 @@
+{
+  "api_url": "https://lestermods.authapi.xyz/server",
+  "version": "27.0",
+  "url": "https://t.me/LesterMods",
+
+  "pubgm": false,
+  "bgmi": true,
+  "korea": true,
+
+  "pubgm_msg": "PUBGM SEVER MAINTENANCE",
+  "bgmi_msg": "BGMI SEVER MAINTENANCE",
+  "korea_msg": "KOREA SEVER MAINTENANCE",
+
+  "pubgm_obb_url": "https://your-hosting.com/files/main.pubg.obb",
+  "bgmi_obb_url": "https://your-hosting.com/files/main.bgmi.obb",
+  "korea_obb_url": "https://your-hosting.com/files/main.korea.obb"
+}
