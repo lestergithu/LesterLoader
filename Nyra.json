@@ -1,9 +1,9 @@
 
             {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"API Key has Been Expired — Nyra !",
+    "servermeassage":"API Key has been Revoked By Nyra !",
     "opentime":" ",
     "libs":"https://github.com/lestergithu/LesterLoader/raw/refs/heads/main/libNyraOwner.zip",
     "notice_title":"Welcome Premium Users",
